@@ -15,6 +15,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     //this is a comment
+    //this is a second comment
     {
         assertTrue( true );
     }
